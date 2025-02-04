@@ -50,8 +50,11 @@ demonstrated superior performance in terms of minimizing RMSE while ensuring gen
 
 # **Repository Structure**
 ├── data/                  # Dataset files
+
 ├── notebook/              # Jupyter Notebooks for data exploration
+
 ├── models_output/         # Evaluation metrics and model outputs
+
 ├── README.md              # Project documentation
 
 
