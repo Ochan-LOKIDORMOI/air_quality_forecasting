@@ -62,7 +62,8 @@ demonstrated superior performance in terms of minimizing RMSE while ensuring gen
 To run the code, follow this instructions. 
 
 ## Here's
-- Clone this Reo in your machine and run the Jupyter Notebook 
+- Clone this Repo: https://github.com/Ochan-LOKIDORMOI/air_quality_forecasting.git 
+- Run the Jupyter Notebook 
 - This will train the LSTM
 
 ## **Contributors**
